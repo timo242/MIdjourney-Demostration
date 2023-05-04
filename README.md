@@ -4,14 +4,14 @@
  - Describe the image.  
  - Generate a whole new picture based on Midjourney's description.  
  ---
- ![image.png](final_sm.png)
+ ![final_sm.png](final_sm.png)
 
 ---
 ## First I select my images.
 
 ---
 The first is fractal art I created in a program called Ultra Fractal.   Basically a the dragon region of mandelbrot set with kaleidoscope mapping applied.
-> ![image.png](fractal.png)
+> ![fractal.png](fractal.png)
 
 ---
 
