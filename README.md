@@ -4,7 +4,7 @@
  - Describe the image.  
  - Generate a whole new picture based on Midjourney's description.  
  ---
- ![final small](images/final_sm.png)
+ ![final small](images/final_sm.PNG)
 
 ---
 ## First I select my images.
