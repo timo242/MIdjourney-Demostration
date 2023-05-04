@@ -14,7 +14,7 @@
 
 ---
 
-### I uploand another image previously created by Midjourney
+### I uploaded another image previously created by Midjourney
 
 > ![girl image](images/girl.PNG)
 
@@ -25,7 +25,7 @@
 
 > ![blend choices](images/blend_choices.PNG)
 
-## I choose to upgrade image #3 ...
+## I chose to upgrade image #3 ...
 
 
 > ![blend choice](images/blend_final.PNG)
